@@ -69,6 +69,8 @@ Countries have been depicted by a unique color.
 The "Play" bar on the left corner helps control the time frame. Use will be able to interact with the bar at any instance and hover over the pie chart to get more information about any country in specififc, the numbers will be highlighted further.
 The overall graph thus continue to show the figures for other countries.
 
+For this analysis this style of Pie Chart has been used because it allows user to have a through analysis of various countries with respect to various years. The option to pause on the play bar and then interact with the data is really cool as that helps to engage the user further.
+
 The Code for this _**Pie Chart**_ : <div class="flourish-embed flourish-chart" data-src="visualisation/5298538"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
