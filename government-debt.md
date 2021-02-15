@@ -26,7 +26,7 @@ Code for this _**Bar Graph**_ : <iframe src="https://data.oecd.org/chart/6gJd" w
 ### General Government Debt (1995 - 2019)
 
 In this particular analysis of government debt for various countries is done using _**Line Graph**_.
-Debt does not exactly reperesent a positive emotion, hence a shade of Purple has been choosen to help display this complex feeling. A light color might have been suitable, but the information needs to be easy to perceive and at the same time we would want to distingush distinctly with the the grid lines. 
+Debt does not exactly reperesent a positive emotion, hence a shade of Brown has been choosen to help display this complex feeling. A light color might have been suitable, but the information needs to be easy to perceive and at the same time we would want to distingush distinctly with the the grid lines. 
 
 The line graph is easy to interpret and allows for a neat and clean deduction about how the data changes over a period od time and gives a defined region when analysing the highs and lows for a given data set. It can be said to be more easy to read than the Bar Graph due to how the information is represented and the points at which it intersects the grid lines make for a better analysis than the flat head of the bar graph which might confuse us when two quantitiies as very close to one another. They might be mistaken to be of the same value. Such errors can be prevented in Line Graph.
 
