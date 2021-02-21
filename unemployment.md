@@ -22,11 +22,11 @@ It was a surprise to know that the popular, and what people think is a reliable 
 
 
 # Analysis
-At first glance, the Unemployment percentage numbers seem to be thrown in someone's eye. Its not that it's bright, but it's neon bright! Those colors just make the user hop from one number to the next without understanding why they are looking at it. Then the attention goes to the White - Silver X-Y axis. No idea why it is so bright and stands out. Just grasping a lot of attention and away from the graph, the trend line which is the actual highlight, the actual information that needs to be conveyed. 
-Next, a very bright color for the background is used, and a dark shade of red is used for the graph as well, due to which it gets mixed up with the dark blue background. 
-The grid lines too get hidden due to the background color and difficult to notice where they intersect. At this point they are just adding to the chaos in the graph.
+At first glance, the Unemployment percentage numbers seem to be thrown in someone's eye. It is not that it's bright, but it's neon bright! Those colors just make the user hop from one number to the next without understanding why they are looking at it. Then the attention goes to the White - Silver X-Y axis. No idea why it is so bright and stands out. Just grasping a lot of attention and away from the graph, the trend line which is the actual highlight, the actual information that needs to be conveyed. 
+Next, very bright color for the background is used, and a dark shade of red is used for the graph as well, due to which it gets mixed up with the dark blue background. 
+The grid lines get hidden due to the background color and difficult to notice where they intersect. At this point, they are just adding to the chaos in the graph.
 The red dots used for marking the number also seem very bright. And they didn't have to be so big. It might just confuse the reader which is the exact point that needs to be marked. 
-There could be a Y-axis label which would say "As Percentage" to make the Y-axis less cluttered. The numbering of percentages starts from 8, which does not make sense. Hence the intensity of graph seems to be changed if the Y-axis starts from 0. The results are different, and the graph starting from 0% will be more coherent.
+There could be a Y-axis label that would say "As Percentage" to make the Y-axis less cluttered. The numbering of percentages starts from 8, which does not make sense. Hence the intensity of the graph seems to be changed if the Y-axis starts from 0. The results are different, and the graph starting from 0% will be more coherent.
 
 
 ---
