@@ -1,7 +1,7 @@
-<p align="center">
 # Unemployment Rates in the United States
 #### During the Obama Presidency - 2011
 <br />
+<p align="center">
 <img src = "https://www.statisticshowto.com/wp-content/uploads/2014/01/unemployment-rate.jpg">
 <br />
 Source: https://www.statisticshowto.com/wp-content/uploads/2014/01/unemployment-rate.jpg
