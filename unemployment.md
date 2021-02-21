@@ -1,3 +1,4 @@
+<p>
 # Unemployment Rates in the United States
 #### During the Obama Presidency - 2011
 <br />
@@ -5,6 +6,7 @@
 <br />
 Source: https://www.statisticshowto.com/wp-content/uploads/2014/01/unemployment-rate.jpg
 <br />
+</p>
 
 # Introduction
 The United States is seen as a developed and fairly advanced country by the other nations. While one may expect that everything about this country might be perfect, the unemployment rates from the past weren't.
