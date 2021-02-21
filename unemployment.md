@@ -1,4 +1,4 @@
-<p>
+<p align="center">
 # Unemployment Rates in the United States
 #### During the Obama Presidency - 2011
 <br />
