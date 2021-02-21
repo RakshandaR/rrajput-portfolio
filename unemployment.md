@@ -71,3 +71,6 @@ Addition of a grid line parallel to Y-axis was the inferred solution from the pr
 
 # Modified Graph from User Interaction
 <div class="flourish-embed flourish-chart" data-src="visualisation/5351428"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+#### Note: All Graphs are interactible. 
