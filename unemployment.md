@@ -34,8 +34,10 @@ There could be a Y-axis label that would say "As Percentage" to make the Y-axis 
 
 
 # Graph after Initial Analysis
+<p align="center">
 <div class="flourish-embed flourish-chart" data-src="visualisation/5354121"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
+Source: <div class="flourish-embed flourish-chart" data-src="visualisation/5354121"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+</p>
 
 
 ---
@@ -71,7 +73,9 @@ Addition of a grid line parallel to Y-axis was the inferred solution from the pr
 
 # Modified Graph from User Interaction
 <div class="flourish-embed flourish-chart" data-src="visualisation/5351428"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
+<p align="center">
+ Source: <div class="flourish-embed flourish-chart" data-src="visualisation/5351428"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+</p>
 
 #### Note: All Graphs are interactible. 
 
