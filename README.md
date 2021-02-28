@@ -15,3 +15,9 @@ Visulalization and understanding the data has become very improtant to retrive i
 
 
 <a href="https://rakshandar.github.io/rrajput-portfolio/unemployment.html" title="Unemployemnt in 2011">Unemployemnt in 2011</a>
+
+
+---
+
+
+<a href="https://rakshandar.github.io/rrajput-portfolio/projectdraft" title="Project Draft">Project Draft</a>
