@@ -72,3 +72,8 @@ The Shorthand platform seems more suitable for presenting the analysis and the v
 
 #### Sketch - 7
 <img width="353" alt="7" src="https://user-images.githubusercontent.com/36320806/109409045-30a57000-795d-11eb-8453-a8f9b4ab4639.png">
+
+ 
+#### Note: All Graphs are interactible. 
+
+<a href="https://rakshandar.github.io/rrajput-portfolio/" title="Home">Home</a>
