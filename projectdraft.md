@@ -4,7 +4,7 @@
 
 ##### Introduction
 
-(What the page is about – what can be expected as the user scrolls further)\
+(What the page is about – what can be expected as the user scrolls further)
 
 #### Why? Why should animal cruelty and Veganism be our Concern?
 
