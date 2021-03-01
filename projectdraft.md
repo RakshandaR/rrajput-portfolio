@@ -5,7 +5,8 @@
 ##### Introduction
 
 (What the page is about – what can be expected as the user scrolls further)\
-Why? Why should animal cruelty and Veganism be our Concern?
+
+#### Why? Why should animal cruelty and Veganism be our Concern?
 
 
 From the time when humanity is known to exist, he is known to derive his food from two main sources: plants and animals. With the invention of the fire and tools is seemed he was more inclined to hunt for animals. But the key point being, they were not able to use the resources best to utilize the nutrients offered by plants to their best. 
