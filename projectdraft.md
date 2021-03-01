@@ -4,32 +4,48 @@
 
 ##### Introduction
 
-(What the page is about – what can be expected as the user scrolls further)
-Why? Why should animal cruelty and Veganism be our Concern?
+(What the page is about – what can be expected as the user scrolls further)\
+Why? Why should animal cruelty and Veganism be our Concern?\
+
+
 From the time when humanity is known to exist, he is known to derive his food from two main sources: plants and animals. With the invention of the fire and tools is seemed he was more inclined to hunt for animals. But the key point being, they were not able to use the resources best to utilize the nutrients offered by plants to their best. 
 But even after several decades, humans still tend to strive on animals as a source of food. Currently, it has become one of the popular “businesses” on which the livelihood of several households depends. The animals are actually “cultivated” like plants and then reaped for their meat when they grow. 
 
+#### Sketch – 5: 
+
 Nature is meant to provide. Plants provide for every living animal! The Food Chain is a part of nature, but humans are not a part of the carnivore food chain; something we have long forgotten.
 Humans resort to different kinds of meat to fill their stomachs. Most of the population do not even know the reason they choose to eat a particular type of food other than knowing to have it all their lives and just liking its taste. 
-The following graph shows the variety of meat that is being derived from animals to satisfy this insatiable thirst of human beings. 
-Sketch – 1: (Different types of meat)
+The following graph shows the variety of meat that is being derived from animals to satisfy this insatiable thirst of human beings.  \
 
-This data shows the trend in the United States over decades. But this trend exists all over the globe, and in different concentrations. There have been researches conducted about understanding this widespread consumption of meat throughout the world.
+
+#### Sketch – 1: (Different types of meat)
+
+#### Sketch – 7: (Consumption of meat increase with increase in animal cruelty US) 
+
+This consumption of meat has grown over the decades. There is data shows the trend in the United States over decades. But this trend exists all over the globe, and in different concentrations. There have been researches conducted about understanding this widespread consumption of meat throughout the world.
 (Graph of meat consumption over the world)
-Sketch – 2: (Detailed Graph of meat consumption over the different states of America)
+  \
+
+#### Sketch – 2: (Detailed Graph of meat consumption over the different states of America)
 
 There have been arguments about the nutrients that are being derived from plant-based sources and animal-based. And here a glimpse of what it says:
-Sketch – 3: (Picture of comparison – google link)
+  \
+
+#### Sketch – 3: (Picture of comparison)
 
 The major inference drawn from all this data leads us to ask ourselves: “Do we really need animals to feed on after such advances in the food industry? Are we slaughtering these animals for nutrients which cannot be derived from somewhere else, or we just not concerned to look for friendly alternatives?”, and most importantly “how right, is it moral to kill another soul to feel our own flesh?”
 
-How do we change this? What can we do?
+How do we change this? What can we do?\
 One of the key steps taken is by several environmentalists who came forward to save the animals and help promote the culture of “Veganism”. The main idea of being Vegan is to replace the current animal-based products with plant-based products.
-This change was not an easy one to make in countries that dominantly fed on meat. But research shows that over the period restaurants welcomed the idea of having Vegan-friendly products on their menu along with the regular menu. 
-Sketch – 4: (Places where Vegan restaurants are popular)
+This change was not an easy one to make in countries that dominantly fed on meat.  
+  \
 
-Researchers have also collected data about how there are certain states which are overall more inclined to accept the Vegan lifestyle than the others. Specifically adapting and exploring the Vegan food culture.
-Sketch – 5: (Graph of States that are more inclined to have Vegan-friendly restaurants)
+#### Sketch – 6 & 5: (Consumption of meat and Vegan friendly food, side by side image)
+
+Research shows that over the period restaurants welcomed the idea of having Vegan-friendly products on their menu along with the regular menu.Researchers have also collected data about how there are certain states which are overall more inclined to accept the Vegan lifestyle than the others. Specifically adapting and exploring the Vegan food culture.
+  \
+
+#### Sketch – 4: (Graph of States that are more inclined to have Vegan-friendly restaurants)
 
 
 # The Data Sources and References
