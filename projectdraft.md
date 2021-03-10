@@ -92,4 +92,9 @@ The Shorthand platform seems more suitable for presenting the analysis and the v
  
 #### Note: All Graphs are interactible. 
 
+
+<a href="https://rakshandar.github.io/rrajput-portfolio/projectdraft-2" title="Project Draft Part 2">Project Draft Part 2</a>
+
+
+
 <a href="https://rakshandar.github.io/rrajput-portfolio/" title="Home">Home</a>
