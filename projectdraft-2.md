@@ -3,8 +3,8 @@
 
 
 
-Source : <script src="https://embed.shorthand.com/embed_10.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/veganism/"><h1>What's on your plate?</h1></div>
+Source : "<script src="https://embed.shorthand.com/embed_10.js"></script>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/veganism/"><h1>What's on your plate?</h1></div>"
 
 
 
