@@ -97,4 +97,8 @@ The Shorthand platform seems more suitable for presenting the analysis and the v
 
 
 
+<a href="https://rakshandar.github.io/rrajput-portfolio/projectdraft-3.html" title="Project Draft Part 3">Project Draft Part 3</a>
+
+
+
 <a href="https://rakshandar.github.io/rrajput-portfolio/" title="Home">Home</a>
