@@ -29,7 +29,6 @@ Visulalization and understanding the data has become very improtant to retrive i
 <a href="https://rakshandar.github.io/rrajput-portfolio/projectdraft-2" title="Project Draft Part 2">Project Draft Part 2</a>
 
 
-
 ---
 
 
